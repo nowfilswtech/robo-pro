@@ -1,0 +1,7 @@
+When an
+access token expires, a 401 Unauthorized HTTP s
+tatus code is typically returned. This status code indicates
+that the client's request could not be completed 
+because it lacks
+valid authentication credentials, which in this case
+is the expired access token. 
